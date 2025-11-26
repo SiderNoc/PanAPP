@@ -55,10 +55,7 @@ Asegúrate de tener instalado:
 ### 2. Clonar y preparar
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-
-# Entrar a la carpeta
-cd TU_REPOSITORIO
+git clone https://github.com/facebook/react.git
 
 # Instalar dependencias
 npx expo install firebase styled-components expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants @react-navigation/drawer react-native-gesture-handler react-native-reanimated @react-native-picker/picker @react-native-community/datetimepicker xlsx expo-file-system expo-sharing
